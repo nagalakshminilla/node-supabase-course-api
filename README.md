@@ -1,0 +1,1 @@
+# node-supabase-course-api
